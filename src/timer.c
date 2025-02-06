@@ -30,7 +30,7 @@
 #include <string.h>
 #include <time.h>
 #include "timer_private.h"
-// nuovo ancora 
+// nuovo ancora adessso
 
 upo_timer_t upo_timer_create()
 {
